@@ -1,0 +1,8 @@
+[package]
+name = "power-of-ten"
+version = "0.1.0"
+authors = ["Jamey Sharp <jamey@galois.com>"]
+
+[lib]
+name = "power_of_ten"
+plugin = true
